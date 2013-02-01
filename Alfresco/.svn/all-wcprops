@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Externals/!svn/ver/14/trunk/AlfrescoFramework/Alfresco
+END
+AlfrescoSDK.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/AlfrescoSDK.csproj
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/app.config
+END
+AlfrescoSDK.snk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/AlfrescoSDK.snk
+END
+mimetypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/mimetypes.xml
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService
+END
+classification-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/classification-service.wsdl
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Reference.cs
+END
+Classification.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Classification.datasource
+END
+Classification1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Classification1.datasource
+END
+Category.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Category.datasource
+END
+Category1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Category1.datasource
+END
+ClassDefinition.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/ClassDefinition.datasource
+END
+ClassDefinition1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/ClassDefinition1.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/Reference.map
+END
+CategoriesResult.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/CategoriesResult.datasource
+END
+CategoriesResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/ClassificationWebService/CategoriesResult1.datasource
+END

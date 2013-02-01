@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService
+END
+VersionHistory1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/VersionHistory1.datasource
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/Reference.cs
+END
+CancelCheckoutResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/CancelCheckoutResult1.datasource
+END
+LockStatus1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/LockStatus1.datasource
+END
+authoring-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/authoring-service.wsdl
+END
+Reference1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/Reference1.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/Reference.map
+END
+CheckinResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/CheckinResult1.datasource
+END
+CheckoutResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/CheckoutResult1.datasource
+END
+VersionResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AuthoringWebService/VersionResult1.datasource
+END

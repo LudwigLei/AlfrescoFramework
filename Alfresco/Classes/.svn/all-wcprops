@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Classes
+END
+PathUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Classes/PathUtils.cs
+END
+NodeBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Classes/NodeBase.cs
+END
+FolderNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Classes/FolderNode.cs
+END
+FileNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Classes/FileNode.cs
+END

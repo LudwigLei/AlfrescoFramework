@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Exceptions
+END
+ErrorMessages.resx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Exceptions/ErrorMessages.resx
+END
+ErrorMessages.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Exceptions/ErrorMessages.Designer.cs
+END
+DuplicateDocumentException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Exceptions/DuplicateDocumentException.cs
+END
+NotFoundDocumentException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Exceptions/NotFoundDocumentException.cs
+END

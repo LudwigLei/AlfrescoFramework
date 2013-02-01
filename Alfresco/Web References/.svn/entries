@@ -1,0 +1,55 @@
+10
+
+dir
+80
+https://www.siaudit.com/svn/Externals/trunk/AlfrescoFramework/Alfresco/Web%20References
+https://www.siaudit.com/svn/Externals
+
+
+
+2011-06-14T12:38:12.079626Z
+2
+svn_admin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9ec3a2e8-5838-d94e-bf15-ff68b2b86d8c
+
+AuthoringWebService
+dir
+
+AccessControlWebService
+dir
+
+AdministrationWebService
+dir
+
+DictionaryServiceWebService
+dir
+
+ContentWebService
+dir
+
+ClassificationWebService
+dir
+
+ActionWebService
+dir
+
+AuthenticationWebService
+dir
+
+RepositoryWebService
+dir
+

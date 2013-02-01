@@ -1,0 +1,10 @@
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\bin\Debug\Base\MimetypeMap.cs
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\bin\Debug\Alfresco.dll.config
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\bin\Debug\Alfresco.dll
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\bin\Debug\Alfresco.pdb
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\ResolveAssemblyReference.cache
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\Alfresco.g.resources
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\Alfresco.Exceptions.ErrorMessages.resources
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\AlfrescoSDK.csproj.GenerateResource.Cache
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\Alfresco.dll
+C:\Desarrollo\Mundiaudit\Repositorio_Trunk\Externals\AlfrescoFramework\Alfresco\obj\Debug\Alfresco.pdb

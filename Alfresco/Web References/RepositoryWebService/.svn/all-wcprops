@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService
+END
+Node1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/Node1.datasource
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/Reference.cs
+END
+repository-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/repository-service.wsdl
+END
+Store1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/Store1.datasource
+END
+NodeDefinition1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/NodeDefinition1.datasource
+END
+cml.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/cml.xsd
+END
+headers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/headers.xsd
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/Reference.map
+END
+UpdateResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/UpdateResult1.datasource
+END
+QueryResult1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/RepositoryWebService/QueryResult1.datasource
+END

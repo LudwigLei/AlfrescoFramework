@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base
+END
+Constants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/Constants.cs
+END
+AlfrescoException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/AlfrescoException.cs
+END
+ISO9075.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/ISO9075.cs
+END
+AuthenticationUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/AuthenticationUtils.cs
+END
+Utils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/Utils.cs
+END
+AdditionalDefinitions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/AdditionalDefinitions.cs
+END
+WebServiceFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/WebServiceFactory.cs
+END
+MimetypeMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Base/MimetypeMap.cs
+END

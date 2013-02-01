@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService
+END
+UserQueryResults1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/UserQueryResults1.datasource
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/Reference.cs
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/Reference.map
+END
+administration-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/administration-service.wsdl
+END
+UserDetails1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/AdministrationWebService/UserDetails1.datasource
+END

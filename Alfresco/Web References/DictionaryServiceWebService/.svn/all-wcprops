@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService
+END
+AssociationDefinition1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/AssociationDefinition1.datasource
+END
+types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/types.xsd
+END
+Reference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/Reference.cs
+END
+PropertyDefinition1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/PropertyDefinition1.datasource
+END
+ClassDefinition1.datasource
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/ClassDefinition1.datasource
+END
+Reference.map
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/Reference.map
+END
+dictionary-service.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Externals/!svn/ver/2/trunk/AlfrescoFramework/Alfresco/Web%20References/DictionaryServiceWebService/dictionary-service.wsdl
+END
